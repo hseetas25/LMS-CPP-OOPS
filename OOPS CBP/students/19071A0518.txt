@@ -1,0 +1,11 @@
+Name       :    Kalakata Yagna Reddy
+StudentId  :    19071A0518
+Department :    CSE
+Section    :    B
+Attendence :    98.57
+Gpa        :    9.76
+Percentage :    97.6
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

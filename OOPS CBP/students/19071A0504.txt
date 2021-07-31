@@ -1,0 +1,12 @@
+Name       :    Anusha Kadali
+StudentId  :    19071A0504
+Department :    CSE
+Section    :    A
+Attendence :    81.11
+Gpa        :    8.26
+Percentage :    82.6
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

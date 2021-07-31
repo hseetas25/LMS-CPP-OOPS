@@ -1,0 +1,10 @@
+Name       :    Kethavath Shankar
+StudentId  :    19071A0527
+Department :    CSE
+Section    :    C
+Attendence :    75.38
+Gpa        :    6
+Percentage :    60
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

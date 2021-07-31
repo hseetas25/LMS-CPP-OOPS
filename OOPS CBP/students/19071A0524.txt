@@ -1,0 +1,10 @@
+Name       :    Kannegundla LN SriRam
+StudentId  :    19071A0524
+Department :    CSE
+Section    :    C
+Attendence :    94.01
+Gpa        :    9.37
+Percentage :    93.7
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

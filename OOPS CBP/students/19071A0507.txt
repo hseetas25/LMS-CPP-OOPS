@@ -1,0 +1,12 @@
+Name       :    Bayagani Satya
+StudentId  :    19071A0507
+Department :    CSE
+Section    :    A
+Attendence :    86.18
+Gpa        :    8.2
+Percentage :    82
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

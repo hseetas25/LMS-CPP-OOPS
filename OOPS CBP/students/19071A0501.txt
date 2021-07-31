@@ -1,0 +1,12 @@
+Name       :    Addi Sathvika
+StudentId  :    19071A0501
+Department :    CSE
+Section    :    A
+Attendence :    83.79
+Gpa        :    9
+Percentage :    90
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

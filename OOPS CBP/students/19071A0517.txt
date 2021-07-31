@@ -1,0 +1,11 @@
+Name       :    Gunadaram Anushka
+StudentId  :    19071A0517
+Department :    CSE
+Section    :    B
+Attendence :    95.57
+Gpa        :    8.8
+Percentage :    88
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

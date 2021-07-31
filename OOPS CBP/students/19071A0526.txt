@@ -1,0 +1,10 @@
+Name       :    Kesari Hruday Vikas Reddy
+StudentId  :    19071A0526
+Department :    CSE
+Section    :    C
+Attendence :    98.7
+Gpa        :    9.02
+Percentage :    90.2
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

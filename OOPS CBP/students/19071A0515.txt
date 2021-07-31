@@ -1,0 +1,11 @@
+Name       :    Gangula Arvind Reddy
+StudentId  :    19071A0515
+Department :    CSE
+Section    :    B
+Attendence :    88.57
+Gpa        :    7
+Percentage :    70
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

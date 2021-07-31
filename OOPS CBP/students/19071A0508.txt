@@ -1,0 +1,12 @@
+Name       :    Belapure Ashish
+StudentId  :    19071A0508
+Department :    CSE
+Section    :    A
+Attendence :    88.74
+Gpa        :    7.56
+Percentage :    75.6
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

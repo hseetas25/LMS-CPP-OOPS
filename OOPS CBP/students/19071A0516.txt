@@ -1,0 +1,11 @@
+Name       :    Gopineni Gopi Krishna
+StudentId  :    19071A0516
+Department :    CSE
+Section    :    B
+Attendence :    87
+Gpa        :    9.26
+Percentage :    92.6
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

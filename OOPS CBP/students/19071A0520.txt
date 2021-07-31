@@ -1,0 +1,11 @@
+Name       :    Kamala Priya Vege
+StudentId  :    19071A0520
+Department :    CSE
+Section    :    B
+Attendence :    98.57
+Gpa        :    9.21
+Percentage :    92.1
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

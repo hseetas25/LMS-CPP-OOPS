@@ -1,0 +1,14 @@
+Name       :    Balaga Sateesh
+StudentId  :    19071A0505
+Department :    CSE
+Section    :    A
+Attendence :    97.24
+Gpa        :    9.55
+Percentage :    95.5
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular
+
+

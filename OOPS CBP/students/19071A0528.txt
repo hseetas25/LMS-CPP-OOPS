@@ -1,0 +1,10 @@
+Name       :    Kodiganti Ravi Kumar
+StudentId  :    19071A0528
+Department :    CSE
+Section    :    C
+Attendence :    90
+Gpa        :    8.2
+Percentage :    82
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

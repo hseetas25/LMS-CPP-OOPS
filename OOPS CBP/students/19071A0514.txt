@@ -1,0 +1,11 @@
+Name       :    Duggasani Yaswanth Reddy
+StudentId  :    19071A0514
+Department :    CSE
+Section    :    B
+Attendence :    90.4
+Gpa        :    8.95
+Percentage :    89.5
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

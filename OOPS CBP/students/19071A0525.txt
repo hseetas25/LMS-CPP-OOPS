@@ -1,0 +1,10 @@
+Name       :    Karumanchi Leela Vara Prasad
+StudentId  :    19071A0525
+Department :    CSE
+Section    :    C
+Attendence :    92.63
+Gpa        :    7.7
+Percentage :    77
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

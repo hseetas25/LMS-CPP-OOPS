@@ -1,0 +1,17 @@
+Name       :    Bharath
+FacultyId  :    VNRCSE0504
+Department :    CSE
+Courses    :    Data Science
+Section    :    C
+
+----- STUDENTS -----
+Aditya       - 19071A0521 - C
+Ramu         - 19071A0522 - C
+Srija        - 19071A0523 - C
+Sri Ram      - 19071A0524 - C
+Prasad       - 19071A0525 - C
+Vikas        - 19071A0526 - C
+Shankar      - 19071A0527 - C
+Ravi         - 19071A0528 - C
+Yeshwanth    - 19071A0529 - C
+Vineela      - 19071A0530 - C

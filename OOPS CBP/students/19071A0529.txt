@@ -1,0 +1,10 @@
+Name       :    Konduti Yeshwanth
+StudentId  :    19071A0529
+Department :    CSE
+Section    :    C
+Attendence :    85.57
+Gpa        :    6
+Percentage :    60
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

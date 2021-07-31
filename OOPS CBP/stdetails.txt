@@ -1,0 +1,34 @@
+----------------------------------------------
+Student Name          Roll Number     Section
+----------------------------------------------
+Sathvika       -       19071A0501   -   A
+Sadhana        -       19071A0502   -   A
+Navya Sree     -       19071A0503   -   A
+Anusha         -       19071A0504   -   A
+Sateesh        -       19071A0505   -   A
+Apoorva        -       19071A0506   -   A
+Sathya         -       19071A0507   -   A
+Ashish         -       19071A0508   -   A
+Roshan         -       19071A0509   -   A
+Mahalakshmi    -       19071A0510   -   A
+Harshita       -       19071A0511   -   B
+Prithvi        -       19071A0512   -   B
+Sruthi         -       19071A0513   -   B
+Yaswanth       -       19071A0514   -   B
+Aravind        -       19071A0515   -   B
+Gopi           -       19071A0516   -   B
+Anushka        -       19071A0517   -   B
+Yagna          -       19071A0518   -   B
+Shrutha        -       19071A0519   -   B
+Kamala Priya   -       19071A0520   -   B
+Aditya         -       19071A0521   -   C
+Ramu           -       19071A0522   -   C
+Srija          -       19071A0523   -   C
+Sri Ram        -       19071A0524   -   C
+Prasad         -       19071A0525   -   C
+Vikas          -       19071A0526   -   C
+Shankar        -       19071A0527   -   C
+Ravi           -       19071A0528   -   C
+Yeshwanth      -       19071A0529   -   C
+Vineela        -       19071A0530   -   C
+----------------------------------------------

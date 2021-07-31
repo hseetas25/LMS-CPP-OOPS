@@ -1,0 +1,11 @@
+Name       :    Cilarapu Pruthvi Raj
+StudentId  :    19071A0512
+Department :    CSE
+Section    :    B
+Attendence :    70.56
+Gpa        :    6
+Percentage :    60
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

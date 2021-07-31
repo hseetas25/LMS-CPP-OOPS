@@ -1,0 +1,11 @@
+Name       :    Kalledi Shree Shrutha
+StudentId  :    19071A0519
+Department :    CSE
+Section    :    B
+Attendence :    70.1
+Gpa        :    6
+Percentage :    60
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

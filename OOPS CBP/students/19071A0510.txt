@@ -1,0 +1,12 @@
+Name       :    Chintamaneni MahaLakshmi
+StudentId  :    19071A0510
+Department :    CSE
+Section    :    A
+Attendence :    96.57
+Gpa        :    9.21
+Percentage :    92.1
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

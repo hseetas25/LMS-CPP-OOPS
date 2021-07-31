@@ -1,0 +1,10 @@
+Name       :    Kankanala Srija
+StudentId  :    19071A0523
+Department :    CSE
+Section    :    C
+Attendence :    95.87
+Gpa        :    9
+Percentage :    90
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

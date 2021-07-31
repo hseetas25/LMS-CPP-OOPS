@@ -1,0 +1,10 @@
+Name       :    Kammari Sai Aditya Chary
+StudentId  :    19071A0521
+Department :    CSE
+Section    :    C
+Attendence :    74.80
+Gpa        :    8.48
+Percentage :    84.8
+Courses    :    Python Programming
+                AI/ML through Python
+                Data Science through Python

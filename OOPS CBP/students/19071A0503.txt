@@ -1,0 +1,12 @@
+Name       :    Annam Navya Sree
+StudentId  :    19071A0503
+Department :    CSE
+Section    :    A
+Attendence :    88.79
+Gpa        :    8.89
+Percentage :    88.9
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

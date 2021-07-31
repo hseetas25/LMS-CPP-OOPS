@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+Roll Number          Player Name           Role           Section
+----------------------------------------------------------------------
+19071A0505           Sateesh              Batsman            A
+19071A0507           Satya                Batsman            A
+19071A0509           Roshan               Batsman            A
+19071A0512           Prithvi Raj          Batsman            B
+19071A0514           Yaswanth             Batsman            B
+19071A0515           Aravind              Batsman            B
+19071A0516           Gopi                 Bowler             B
+19071A0521           Aditya               Bowler             C
+19071A0522           Ramu                 Bowler             C
+19071A0524           Sri Ram              Bowler             C
+19071A0525           LV Prasad            Bowler             C
+19071A0526           Vikas                Bowler             C
+19071A0527           Shanakar             Bowler             C
+19071A0528           Ravi                 Bowler             C
+19071A0529           Yeshwanth            Bowler             C
+----------------------------------------------------------------------

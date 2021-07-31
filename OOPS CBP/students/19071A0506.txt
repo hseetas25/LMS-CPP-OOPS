@@ -1,0 +1,12 @@
+Name       :    Bandi Apoorva
+StudentId  :    19071A0506
+Department :    CSE
+Section    :    A
+Attendence :    84
+Gpa        :    7.95
+Percentage :    79.5
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                Back End Development
+                Angular

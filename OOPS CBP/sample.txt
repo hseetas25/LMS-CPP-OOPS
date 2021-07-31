@@ -1,0 +1,31 @@
+===== Student Login =====
+Members: username, password, student_id
+Methods: 
+    readCredentials()
+    verifyCreds() --> Friend function
+
+===== Faculty Login =====
+Members: username, password, Faculty_id
+Methods:
+    readCredentials()
+    verifyCreds() --> Friend function
+
+--- A Friend function to verify credentials ---
+
+===== Student Details : public Student Login =====
+Members: student_id, name, section.....
+Methods:
+    printDetails() -> Section, marks, attendance, all reports...
+
+===== Faculty Details : public Faculty Login =====
+Members: Faculty_id, name, section.....
+Methods:
+    printDetails() -> Designation, Section, Dept., ....
+
+
+===== College Details :public faculty Details,public student Details =====
+Methods:
+    adminLogin()
+    studentaccess()
+    facultyaccess()
+

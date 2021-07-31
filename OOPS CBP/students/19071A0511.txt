@@ -1,0 +1,11 @@
+Name       :    Chundru Harshitha
+StudentId  :    19071A0511
+Department :    CSE
+Section    :    B
+Attendence :    98.54
+Gpa        :    9.32
+Percentage :    93.2
+Courses    :    Python Programming
+                HTML CSS Course
+                Front End Development
+                AI/ML Through Python

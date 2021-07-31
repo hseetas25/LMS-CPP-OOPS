@@ -1,0 +1,17 @@
+Name       :    Pavan
+FacultyId  :    VNRCSE0503
+Department :    CSE
+Courses    :    Angular 
+Section    :    A
+
+----- STUDENTS -----
+Sathvika     - 19071A0501 - A
+Sadhana      - 19071A0502 - A
+Navya Sree   - 19071A0503 - A
+Anusha       - 19071A0504 - A
+Sateesh      - 19071A0505 - A
+Apoorva      - 19071A0506 - A
+Sathya       - 19071A0507 - A
+Ashish       - 19071A0508 - A
+Roshan       - 19071A0509 - A
+Mahalakshmi  - 19071A0510 - A
